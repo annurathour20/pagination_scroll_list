@@ -1,6 +1,16 @@
-# pagination_scroll_list
-we will build scroll pagination in a flutter. Pagination help loads more data when we reach the end of the page.  
-There are two types of pagination
-1. Automatic: Loads more data when you reach the bottom
-2. Action Based: Load more data when you interact with the button.
-Also added search debounce logic
+# pagination_scroll_list_view
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
